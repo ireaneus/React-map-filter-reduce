@@ -1,6 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./components/App";
+import sermons from "./Sermons";
+
+const newSermons = sermons.map(function (sermonEntry) {
+  return sermonEntry.album;
+});
+
+console.log(newSermons);
 
 ReactDOM.render(<App />, document.getElementById("root"));
 
@@ -52,5 +59,8 @@ console.log(result);
 //Reduce - Accumulate a value by doing something to each item in an array.
 
 //Find - find the first item that matches from an array.
+const result = sermons.find((sermon) => sermon.album);
+console.log(result);
+/* {title: "1 Corinthians Part 11", artist: "Pastor Jack Hurley", album: "1Corinthians", year: "1997", name: "1corinthians-part11.mp3"…} */
 
 //FindIndex - find the index of the first item that matches.
