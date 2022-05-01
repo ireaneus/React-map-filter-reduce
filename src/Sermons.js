@@ -209,7 +209,7 @@ const sermons = [
     path: "sermons/1cor/"
   },
   {
-    title: "1 Corinthians Part 31",
+    title: "1 Corinthians Part 32",
     artist: "Pastor Jack Hurley",
     album: "1Corinthians",
     year: "1998",
@@ -823,7 +823,7 @@ const sermons = [
     path: "sermons/acts/"
   },
   {
-    title: "Daniel Part 1",
+    title: "Daniel Part1",
     artist: "Pastor Jack Hurley",
     album: "BibleSurvey",
     year: "1984",
@@ -859,7 +859,7 @@ const sermons = [
     path: "sermons/biblesurvey/"
   },
   {
-    title: "Daniel Part 2",
+    title: "Daniel Part2",
     artist: "Pastor Jack Hurley",
     album: "BibleSurvey",
     year: "1984",
@@ -868,7 +868,7 @@ const sermons = [
     path: "sermons/biblesurvey/"
   },
   {
-    title: "Ezekiel Part 2",
+    title: "Ezekiel Part2",
     artist: "Pastor Jack Hurley",
     album: "BibleSurvey",
     year: "1984",
@@ -877,7 +877,7 @@ const sermons = [
     path: "sermons/biblesurvey/"
   },
   {
-    title: "Ezekiel Part 3",
+    title: "Ezekiel Part3",
     artist: "Pastor Jack Hurley",
     album: "BibleSurvey",
     year: "1984",
@@ -894,7 +894,7 @@ const sermons = [
     path: "sermons/biblesurvey/"
   },
   {
-    title: "Ezekiel Part 1",
+    title: "Ezekiel Part1",
     artist: "Pastor Jack Hurley",
     album: "BibleSurvey",
     year: "1984",
@@ -1011,7 +1011,7 @@ const sermons = [
     path: "sermons/biblesurvey/"
   },
   {
-    title: "Zechariah Part 1",
+    title: "Zechariah Part1",
     artist: "Pastor Jack Hurley",
     album: "BibleSurvey",
     year: "1984",
@@ -1020,7 +1020,7 @@ const sermons = [
     path: "sermons/biblesurvey/"
   },
   {
-    title: "Zechariah Part 2",
+    title: "Zechariah Part2",
     artist: "Pastor Jack Hurley",
     album: "BibleSurvey",
     year: "1985",
@@ -1130,7 +1130,7 @@ const sermons = [
     path: "sermons/daniel/"
   },
   {
-    title: "Daniel Part 10",
+    title: "Daniel Part 11",
     artist: "Pastor Jack Hurley",
     album: "Daniel",
     year: "1995",
