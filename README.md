@@ -32,5 +32,17 @@ function App() {
 
 export default App;
 ```
+## ../Sermons.js
+```js
+const sermons = [
+  {
+    title: "1 Corinthians Part 11",
+    artist: "Pastor Jack Hurley",
+    album: "1Corinthians",
+    year: "1997",
+    name: "1corinthians-part11.mp3",
+    path: "sermons/1cor/"
+  },
+```
 
 Created with CodeSandbox
